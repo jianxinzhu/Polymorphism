@@ -1,3 +1,9 @@
+/*
+name: jianxin zhu
+date: aug/17/2020
+*/
+
+
 #include"WeekSalary.h"
 #include<stdexcept>
 #include<sstream>
