@@ -1,3 +1,7 @@
+/*
+name: jianxin zhu
+date: aug/17/2020
+*/
 #include"PieceWorker.h"
 #include<sstream>
 #include<stdexcept>
