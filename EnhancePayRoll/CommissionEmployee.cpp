@@ -1,3 +1,7 @@
+/*
+name: jianxin zhu
+date: aug/17/2020
+*/
 #include"CommissionEmployee.h"
 #include<sstream>
 #include<stdexcept>
