@@ -1,3 +1,7 @@
+/*
+name: jianxin zhu
+date: aug/17/2020
+*/
 #include"HourlyWorker.h"
 #include<sstream>
 
