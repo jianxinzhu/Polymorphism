@@ -1,3 +1,8 @@
+/*
+name: jianxin zhu
+date: aug/17/2020
+*/
+
 #ifndef WEEKSALARY_H
 #define WEEKSALARY_H
 
