@@ -1,3 +1,7 @@
+/*
+name: jianxin zhu
+date: aug/17/2020
+*/
 #ifndef HOURLYWORKER_H
 #define HOURLYWORKER_H
 
